@@ -21,10 +21,12 @@
 
 body {
     font-family: Heebo, sans-serif;
+    margin: 0;
 }
 
 h1 {
     font-size: 8rem; 
     font-weight: 800;
     font-family: "Work Sans";
+    color: rgb(212, 162, 233);
 }
